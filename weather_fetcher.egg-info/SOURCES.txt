@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+tests/test_temperature.py
+weather_fetcher/__init__.py
+weather_fetcher/temperature.py
+weather_fetcher.egg-info/PKG-INFO
+weather_fetcher.egg-info/SOURCES.txt
+weather_fetcher.egg-info/dependency_links.txt
+weather_fetcher.egg-info/requires.txt
+weather_fetcher.egg-info/top_level.txt
